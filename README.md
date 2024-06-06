@@ -3,7 +3,7 @@
 <p>Site de hospedagem desenvolvido através do curso <strong>Formação Front-end - HTML, CSS, JavaScript, React e +</strong>, para praticar habilidades desenvolvidas durante o curso.</p>
 
 <h2>Visão Geral do projeto:</h2>
-<p>O projeto consiste no desenvolvimento de um site de hospedagem com design responsivo que permita que o usuário possa verificar os planos oferecidos para compra, verificar domínios disponíveis e enviar feedback sobre planos ou projetos.</p>
+<p>O projeto consiste no desenvolvimento de um site de hospedagem com design responsivo que permite que o usuário possa verificar os planos oferecidos para compra, verificar domínios disponíveis e enviar feedback sobre planos ou projetos.</p>
 
 <div display="flex" justify-content="space-around" align="center">
   <img src="https://github.com/MariaBeatrizBC/Site-de-hospedagem/assets/129955834/8033d831-23af-4465-ab77-1ccdc151a785" width="500px">
